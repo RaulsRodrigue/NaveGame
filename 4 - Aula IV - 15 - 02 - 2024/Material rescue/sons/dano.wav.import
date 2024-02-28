@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://81x5dae40434"
+path="res://.godot/imported/dano.wav-7a23852474ce1f044d1023e20ba2fe6c.sample"
+
+[deps]
+
+source_file="res://4 - Aula IV - 15 - 02 - 2024/Material rescue/sons/dano.wav"
+dest_files=["res://.godot/imported/dano.wav-7a23852474ce1f044d1023e20ba2fe6c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
